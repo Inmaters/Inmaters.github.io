@@ -1,2 +1,2 @@
-# Inmaters.github.io
+# Vadim Galagan
 Home work
