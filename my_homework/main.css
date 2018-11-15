@@ -1,0 +1,271 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	box-sizing: border-box;
+	
+}
+
+header {
+	background-color: #fff;
+	height: 90px;
+}
+
+.navig {
+	float: right;
+	margin-top: 35px;
+	margin-right: 98px;
+}
+.logo {
+	float: left;
+	margin-top: 39px;
+	margin-left: 98px; 
+}
+.menu {
+	margin: 0;
+	padding: 0;
+	
+}
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 31px;
+}
+.menu a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	color: black;
+}
+.menu a:hover {
+	color: #5CD8D3;
+}
+.amelia {
+	background: url(image/black.jpg) no-repeat center top / cover;
+	height: 351px;
+}
+.ameliatext h1 {
+	text-align: center;
+	font-family:'Montserrat', sans-serif;
+	font-size: 38px;
+	font-weight: bolder;
+	color: #fff;
+	display: block;
+	margin: 0;
+	padding-top: 120px;
+	}
+.ameliatext p {
+	text-align: center;
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 18px;
+	color: #fff;
+	margin: 0;
+	padding-top: 40px;}
+
+#inform	{
+	background: url(image/bg.jpg) no-repeat center / cover;
+	height: 245px;
+	width: 100%;
+	font-family:'Montserrat', sans-serif;
+	font-size: 12px;
+	color: #fff;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+.case {
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-top: 100px;
+	margin-left: 160px;
+}
+.clock {
+	width: 160px;
+	height: 100px;
+	float: left;
+	margin-top: 100px;
+	margin-left: 95px;
+		
+}
+.star {
+	width: 180px;
+	height: 100px;
+	float: left;
+	margin-left: 95px;
+	margin-top: 100px;
+}
+
+.heart {
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-top: 100px;
+	margin-left: 95px;
+}
+
+#inform p {
+	float: right;
+	margin-top: 0;
+}
+
+#fonabout {
+	background: url(image/fon.jpg)  no-repeat center top / cover;
+	height: 530px; 
+	margin: 0;
+	padding: 0;	
+}
+
+.aboutme {
+	width: 450px;
+	padding-top: 0px;
+	float: right;
+	margin-top: 110px;
+	margin-right: 120px;
+}
+.aboutme h3 {
+	font-family:'Montserrat', sans-serif;
+	font-size: 30px;
+
+}
+.aboutme p {
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 16px;
+	color: #797979;
+	padding-bottom: 20px;
+}
+#project {
+	background-color: #fff;
+	height: 320px;
+}
+
+.inproject {
+	width: 540px;
+	padding: 0;
+	margin-top: 100px;
+	margin-left: 400px;
+	margin-bottom: 70px;
+}
+.inproject h3 {
+	font-family:'Montserrat', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.inproject p {
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 16px;
+	color: #797979;
+	text-align: center;
+	margin-top: 30px;
+}
+.button {
+	background: #00CAC4;
+	display: block;
+	width: 185px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+	margin-top: 30px;
+}
+.inproject a:hover {
+	color: #000;
+}
+
+
+#finish {
+	background: url(image/footer.jpg) no-repeat center top / cover;
+	height: 270px;
+	
+}
+.all {
+    margin-left: 0px;
+	padding: 0px;
+	display: inline-block; 
+	width: 100%;
+	margin-top: 90px;}
+
+.all a:hover {
+	color: #fff;
+}
+
+.one{
+	width: 230px;
+	float: left;
+	margin-left: 100px;
+	margin-right: 120px;
+	padding-top: 0;
+
+}
+.one h4{
+	color: #fff;
+	font-family:'Montserrat', sans-serif;
+	font-size: 18px;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.one p{
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 15px;
+	color: #B1B1B1;
+
+}
+.two{
+	width: 160px;
+	float: left;
+		
+}
+.two p{
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 15px;
+	color: #B1B1B1;
+	margin-top: 0;}
+
+.three{
+	width: 70px;
+	float: left;
+	margin-left: 160px;
+		
+}
+.three a {
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 15px;
+	color: #B1B1B1;
+	margin-top: 0;
+	text-decoration: none;
+}
+
+
+.four{
+	width: 70px;
+	float: left;
+	margin-left: 40px;
+		 }
+
+.four a {
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 15px;
+	color: #B1B1B1;
+	margin-top: 0;
+	text-decoration: none;}
+	
+
+.five{
+	width: 80px;
+	float: left;
+	margin-left: 120px;
+		}
+
+.five a {
+	font-family:'Nunito Sans', sans-serif;
+	font-size: 15px;
+	color: #B1B1B1;
+	margin-top: 0;
+	text-decoration: none;}
